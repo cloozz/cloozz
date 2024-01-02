@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cloozz
 - 👀 I’m interested in ... coding 
-- 🌱 I’m currently learning ... python (i dont know that much)
-- 💞️ I’m looking to collaborate on ... ML/enginnering and sof/enginnering
+- 🌱 I’m currently learning ... C++ (I don't know that much)
+- 💞️ I’m looking to collaborate on ... ML/engineering and sof/engineering
 - 📫 How to reach me ... ODCreamer@gmail.com
 
 <!---
